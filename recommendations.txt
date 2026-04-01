@@ -1,0 +1,79 @@
+============================================================
+Query   : Creep
+Matched : Creep by Radiohead
+============================================================
+
+── Spotify ──
+
+── Last.fm ──
+
+── Smart Merge ──
+
+============================================================
+Query   : Creep
+Matched : Creep by Radiohead
+============================================================
+
+── Spotify ──
+   1. No Surprises - Radiohead
+   2. Karma Police - Radiohead
+   3. All I Need - Radiohead
+   4. Weird Fishes / Arpeggi - Radiohead
+   5. Jigsaw Falling Into Place - Radiohead
+
+── Last.fm ──
+   1. No Surprises - Radiohead
+   2. Let Down - Radiohead
+   3. Everlong - Foo Fighters
+   4. Where Is My Mind? - Pixies
+   5. Zombie - The Cranberries
+   6. Buddy Holly - Weezer
+   7. Mr. Brightside - The Killers
+   8. Seven Nation Army - The White Stripes
+   9. Losing My Religion - R.E.M.
+  10. Teenage Dirtbag - Wheatus
+
+── Smart Merge ──
+  (1 tracks appeared in both sources)
+   1. No Surprises - Radiohead  [BOTH]
+   2. Karma Police - Radiohead  [Spotify]
+   3. All I Need - Radiohead  [Spotify]
+   4. Weird Fishes / Arpeggi - Radiohead  [Spotify]
+   5. Jigsaw Falling Into Place - Radiohead  [Spotify]
+   6. Let Down - Radiohead  [Last.fm]
+   7. Everlong - Foo Fighters  [Last.fm]
+   8. Where Is My Mind? - Pixies  [Last.fm]
+   9. Zombie - The Cranberries  [Last.fm]
+  10. Buddy Holly - Weezer  [Last.fm]
+
+============================================================
+Query   : Humble
+Matched : DNA. by Kendrick Lamar
+============================================================
+
+── Spotify ──
+   1. Alright - Kendrick Lamar
+   2. PRIDE. - Kendrick Lamar
+   3. tv off (feat. lefty gunplay) - Kendrick Lamar
+   4. Money Trees - Kendrick Lamar
+   5. All The Stars (with SZA) - From "Black Panther: The Album" - Kendrick Lamar
+
+── Last.fm ──
+   1. HUMBLE. - Kendrick Lamar
+   2. N95 - Kendrick Lamar
+   3. trademark usa - Baby Keem
+   4. a lot - 21 Savage
+   5. Saint Pablo - Kanye West
+   6. HOUSE MONEY - Baby Keem
+   7. This Is America - Childish Gambino
+   8. Bound 2 - Kanye West
+   9. MIDDLE CHILD - J. Cole
+  10. Praise the Lord (Da Shine) (feat. Skepta) - A$AP Rocky
+
+── Smart Merge ──
+   1. Alright - Kendrick Lamar  [Spotify]
+   2. PRIDE. - Kendrick Lamar  [Spotify]
+   3. HUMBLE. - Kendrick Lamar  [Last.fm]
+   4. N95 - Kendrick Lamar  [Last.fm]
+   5. trademark usa - Baby Keem  [Last.fm]
+
